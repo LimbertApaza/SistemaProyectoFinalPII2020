@@ -1,0 +1,1 @@
+La principal carencia de esta solución es la falta de participación del cliente en el proceso de hacer un pedido, aparte de que no se lleva ningún control del estado del pedido. 
